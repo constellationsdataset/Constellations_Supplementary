@@ -11,9 +11,9 @@ final paper.
 ---
 ### Code (Constellations_pipeline-main)
 Code used to generate the constellation images, including a demo notebook offline
-version (using a downloadable Mask-RCNN: download here) and online version by
+version (using a downloadable pre-trained Mask-RCNN) and online version by
 uploading and running on colab (Colab Demo.ipynb)
-Code can be found in folder (contains its own readme guide):**Constellations_pipeline-main**
+
 
 ---
 ### (Constellations_pipeline-main\Data_position_evaluate)
