@@ -1,4 +1,4 @@
-### Organisation of object sets in these folders
+### Organisation of object sets in the constellations dataset
 
 The folder contains subfolders where each sub-folder contains exemplars from a particular image that can be used in the experiment. These folders are named after the original image from which the constellation images are created. example: 'bag_04s' is the folder created from the original image 'bed_06s.jpg' in the things dataset.
 
