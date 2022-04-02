@@ -5,8 +5,7 @@ We explain below the folders in the repository:
 
 ### Dataset Samples
 We show in here a very small subset of our dataset, which was
-part of the set used in the human experiments. The link to full dataset will be added in
-final paper.
+part of the set used in the human experiments. The link to full dataset will be added later.
 
 ---
 ### Code (Constellations_pipeline-main)
