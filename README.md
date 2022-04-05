@@ -22,4 +22,9 @@ dots, a sketch drawn on this image passes through. Demo of usage of these functi
 are in ‘Position and evaluation demo.ipynb’
 
 
+---
+### (Constellations_pipeline-main\Evualuate_CLIP)
+This folder contains two notebooks used to evaluate the classification performance of 4 CLIP models agains the modalaties in our Dataset.
+The notebook 'sort_modalities.ipynb' constains helper script to sort images from main dataset folder, modality wise (for which link will be provided later). 'CLIP_Evaluation.ipynb' is the main scipt that evaluates the CLIP model on the dataset and plots Figure 4 from the manuscipt. 
 
+Please follow CLIP usage instructions on https://github.com/openai/CLIP to install the correct environment, before using the scripts.
