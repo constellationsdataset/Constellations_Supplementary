@@ -28,3 +28,5 @@ This folder contains two notebooks used to evaluate the classification performan
 The notebook 'sort_modalities.ipynb' constains helper script to sort images from main dataset folder, modality wise (for which link will be provided later). 'CLIP_Evaluation.ipynb' is the main scipt that evaluates the CLIP model on the dataset and plots Figure 4 from the manuscipt. 
 
 Please follow CLIP usage instructions on https://github.com/openai/CLIP to install the correct environment, before using the scripts.
+
+Download the required meta file: things_concepts.tsv from folder main/ in  https://osf.io/jum2f/ 
