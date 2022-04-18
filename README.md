@@ -6,6 +6,8 @@ We explain below the folders in the repository:
 ### Dataset Samples
 We show in here a very small subset of our dataset, which was
 part of the set used in the human experiments. The link to full dataset will be added later.
+### Sketch based Samples
+We show in here a very small subset (2/250 categories) of the additional 20,000 constellation image sets generated from hand drawn sketches from http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/
 
 ---
 ### Code (Constellations_pipeline-main)
